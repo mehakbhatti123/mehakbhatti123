@@ -31,11 +31,9 @@ Building real-world mobile and web applications while continuously learning mode
 ### 📚 KitabEra
 A full-stack online novel publishing platform where writers can upload and manage novels while readers enjoy an organized reading experience.
 
-### 🤖 AI-Based Exam Proctoring System
-An intelligent system that detects suspicious activities during online examinations using AI techniques.
+### 🤖 Food ordering App
+Developed full mobile app using flutter to order food.
 
-### 🏠 AI Smart Home Security System
-A smart home solution that enhances home security with AI-powered monitoring and automation.
 
 ---
 
