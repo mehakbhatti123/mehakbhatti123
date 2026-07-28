@@ -1,53 +1,77 @@
-<h1 align="center">Hi 👋, I'm Mehak Iqbal</h1>
+<div align="center">
 
-<h3 align="center">
-Flutter Developer • AI & Machine Learning Enthusiast • Python Developer
-</h3>
+# Hi 👋, I'm Mehak Iqbal
+
+### 🚀 Flutter Developer • AI & Machine Learning Enthusiast • Python Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Flutter+Developer;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Real-World+Applications;Open+to+Internship+Opportunities"/>
+
+</div>
+
+---
+
+# 👩‍💻 About Me
+
+🎓 BS Computer Science Student
+
+📱 Passionate Flutter Developer
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+💻 Building modern Web & Mobile Applications
+
+🚀 Interested in creating practical solutions using technology
+
+🌱 Currently improving my Flutter, AI and Software Engineering skills
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-Building real-world mobile and web applications while continuously learning modern technologies.
-</p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Flutter+Developer;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Open+to+Internship+Opportunities" />
-</p>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 BS Computer Science Student
-- 📱 Flutter Developer
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 💻 Building practical Web & Mobile Applications
-- 🌱 Currently learning Flutter, AI & Modern Software Development
-- 🚀 Open to Internship Opportunities
-- ⚡ I enjoy turning ideas into real-world applications.
-
----
-
-## 🚀 Featured Projects
-
-### 📚 KitabEra
-A full-stack online novel publishing platform where writers can upload and manage novels while readers enjoy an organized reading experience.
-
-### 🤖 Food ordering App
-Developed full mobile app using flutter to order food.
-
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,react,nodejs,firebase,html,css,javascript,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp,react,nodejs,firebase,html,css,javascript,git,github,vscode"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+### 📚 KitabEra – Online Novel Publishing Platform
+
+Developed a full-stack platform where writers can upload, manage, and publish novels while readers enjoy an organized digital reading experience.
+
+**Tech Stack**
+- React.js
+- Node.js
+- Express.js
+- Firebase
+- Firestore
+- JavaScript
+
+---
+
+### 🍔 Food Ordering Mobile App
+
+Designed and developed a Flutter-based food ordering application with a clean UI that allows users to browse restaurants, explore menus, place food orders, and manage their cart.
+
+**Features**
+- Beautiful Flutter UI
+- Food Categories
+- Restaurant Listings
+- Shopping Cart
+- Order Management
+- Responsive Design
+
+**Tech Stack**
+- Flutter
+- Dart
+- Firebase
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -59,7 +83,7 @@ Developed full mobile app using flutter to order food.
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -69,9 +93,19 @@ Developed full mobile app using flutter to order food.
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
-<p align="left">
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mehakbhatti123&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
 
 <a href="www.linkedin.com/in/mehak-iqbal-bhatti">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
@@ -85,8 +119,10 @@ Developed full mobile app using flutter to order food.
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+### ⭐ Thanks for visiting my GitHub Profile!
 
-</p>
+*"Code • Learn • Build • Repeat"* 🚀
+
+</div>
