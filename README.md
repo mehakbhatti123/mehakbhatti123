@@ -96,9 +96,7 @@ Designed and developed a Flutter-based food ordering application with a clean UI
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mehakbhatti123&theme=algolia&no-frame=true&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=mehakbhatti123&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
