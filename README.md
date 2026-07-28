@@ -97,7 +97,7 @@ Designed and developed a Flutter-based food ordering application with a clean UI
 
 <p align="center">
 
-<a href="www.linkedin.com/in/mehak-iqbal-bhatti">
+<a href="https://pk.linkedin.com/in/mehak-iqbal-bhatti">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
